@@ -30,8 +30,8 @@ Coming soon
 
 ## Built With
 
-* [SARL](https://github.com/sarl/sarl/) - Agent-Oriented Programming Language used
-* [SARL IDE](http://www.sarl.io/download/index.html)
+* [SARL](https://github.com/sarl/sarl/) - Agent-Oriented Programming Language 
+* [SARL IDE](http://www.sarl.io/download/index.html) - IDE
 * [Maven](https://maven.apache.org/) - Dependency Management
 
 ## Authors
